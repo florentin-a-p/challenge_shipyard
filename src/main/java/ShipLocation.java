@@ -1,0 +1,7 @@
+public enum ShipLocation {
+  STOCKYARD,
+  ASSEMBLY_HALL,
+  PAINTING_BOOTH,
+  TESTING_PIER,
+  CUSTOMER
+}
